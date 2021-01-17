@@ -1,5 +1,7 @@
 var marks = prompt("Enter Your Letter Marks :");
-    
+ 
+// Without Using Logical Oparator
+// Students Marks Count
 /* 
 if (marks >= 101)
 console.log("Invalid Marks");
@@ -25,6 +27,7 @@ else
 
 // Using Logical Oparator
 // Students Marks Count
+
 if (marks >= 101)
 console.log("Invalid Marks");
 
